@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Jigydi</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="work_estimate">Work estimate</string>
+    <string name="compose_shortcut_short_label1">short lable</string>
+    <string name="compose_shortcut_long_label1">long lable</string>
+    <string name="compose_disabled_message1">disable message</string>
+
+    <string name="please_wait">Please wait</string>
+    <string name="view_comments"><u>View comments>></u></string>
+    <string name="filter">Filter</string>
+    <string name="reschedule_date">Reschedule Date</string>
+    <string name="preferable_time">Preferable Time</string>
+    <string name="reschedule">Reschedule</string>
+    <string-array name="complaints_test">
+        <item>Choose complaint reason</item>
+        <item>Text1</item>
+        <item>Text2</item>
+        <item>Text3</item>
+        <item>Text4</item>
+        <item>Text5</item>
+    </string-array>
+
+    <string-array name="timings">
+        <item>9:00 AM - 11:00 AM</item>
+        <item>11:00 AM - 01:00 PM</item>
+        <item>01:00 PM - 03:00 PM</item>
+        <item>03:00 PM - 05:00 PM</item>
+        <item>05:00 PM - 07:00 PM</item>
+    </string-array>
+
+</resources>
