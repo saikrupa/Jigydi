@@ -7,8 +7,8 @@ package jigydi.com.jigydi.app.network;
 public class UrlUtils {
 
 
-    public static final String BASE_URL = "https://jigydi.com/";
-    //public static final String BASE_URL = "http://13.126.27.241/";
+    //public static final String BASE_URL = "https://jigydi.com/";
+    public static final String BASE_URL = "http://13.233.95.230/";
 
 
 
