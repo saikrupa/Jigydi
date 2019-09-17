@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp">
+
+    <Spinner
+        android:id="@+id/spnComplaints"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/complaints_test"/>
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:textAllCaps="false"
+        android:background="@drawable/button_background"
+        android:textColor="@color/white"
+        android:layout_marginTop="45dp"/>
+
+
+</LinearLayout>

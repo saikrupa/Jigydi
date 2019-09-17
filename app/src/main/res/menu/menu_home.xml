@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_home"
+        android:icon="@drawable/ic_home_white"
+        app:showAsAction="never"
+        android:visible="false"
+        android:title="Home"/>
+
+
+  <item
+        android:id="@+id/action_report"
+        app:showAsAction="never"
+        android:visible="true"
+        android:title="Commission report"/>
+
+    <item
+        android:id="@+id/action_logout"
+        app:showAsAction="never"
+        android:icon="@drawable/log_out_white_24dp"
+        android:visible="true"
+        android:title="Logout"/>
+
+
+</menu>

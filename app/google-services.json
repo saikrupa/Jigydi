@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "211798348897",
+    "firebase_url": "https://jigydi-worker-app.firebaseio.com",
+    "project_id": "jigydi-worker-app",
+    "storage_bucket": "jigydi-worker-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211798348897:android:ccba9b62719f0008",
+        "android_client_info": {
+          "package_name": "jigydi.com.jigydi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211798348897-tf6urpnrloik6mp5nek3uvnl6eo3k0qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ8FW2e2KueGd2fZooHq9kfwBt5oSlCmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
